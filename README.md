@@ -2,6 +2,9 @@
 
 Tracking front car to detect accident time
 
+### Object Detection
+* Used Yolo version 3 to detect Cars in the scene 
+
 ### Tracking
 * Used classical vision algorithms detecting Keypoints & descriptors 
 * Performed Matching KNN algorithm to match keypoints from frame at time(t) and time(t-1)
