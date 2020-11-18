@@ -284,3 +284,17 @@ The TOP3 detector / descriptor combinations as the best choice for our purpose o
 - SHITOMASI/BRISK         
 - SHITOMASI/BRIEF            
 - SHITOMASI/ORB           
+
+
+|Approach no. | Lidar | FAST + ORB | FAST + BRIEF |SHITOMASI + BRIEF |
+|:---:|:---:|:---:|:---:|:---:|
+|1 |13.5|10.3 |10.8 | 13.2|
+|2 | 10.4|10.1 |11.0 | 13.0|
+|3 | 22.2|11.1 |15.2 | 8.5|
+|4 |14.3 |12.2 |14.4 | 15.0|
+|5 |10.6 | 17.8|18.0 | 12.8|
+|6 |13.7 |13.7 |12.3 | 14.3|
+|7 | 11.8|11.3 |12.2 | 15.3|
+|8 |12.2 |11.3 |13.8 | 12.6|
+|9 |13.2 |12.1 |12.2 | 11.9|
+|10 |15.7 |13.0 |13.1 | 12.6|
